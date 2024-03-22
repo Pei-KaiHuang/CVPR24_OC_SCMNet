@@ -2,14 +2,11 @@
 
 ### One-Class Face Anti-spoofing via Spoof Cue Map-Guided Feature Learning (CVPR '24)
 
-## Decoupled Learnable Descriptive Convolution (Decoupled-LDC)
-![plot](figures/Dual_cross_ldc.png)
+## Illustration of the proposed idea of SCM-guided feature learning for one-class face anti-spoofing (FAS).
+![plot](figures/idea.pdf)
 
-## Architecture of LDCformer
-![plot](figures/framework3.png)
-
-## Architecture of Decoupled-LDC Block
-![plot](figures/D_LDC_Encoder.png)
+## Architecture of OC SCMNet
+![plot](figures/framework_small.png)
 
 
 ## Training & Testing
