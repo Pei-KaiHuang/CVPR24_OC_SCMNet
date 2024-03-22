@@ -3,10 +3,10 @@
 ### One-Class Face Anti-spoofing via Spoof Cue Map-Guided Feature Learning (CVPR '24)
 
 ## Illustration of the proposed idea of SCM-guided feature learning for one-class face anti-spoofing (FAS).
-![plot](figures/idea.pdf)
+![plot](figures/idea.jpg)
 
 ## Architecture of OC SCMNet
-![plot](figures/framework_small.png)
+![plot](figures/framework_small.jpg)
 
 
 ## Training & Testing
