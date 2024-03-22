@@ -3,34 +3,27 @@
 ### One-Class Face Anti-spoofing via Spoof Cue Map-Guided Feature Learning (CVPR '24)
 
 ## Illustration of the proposed idea of SCM-guided feature learning for one-class face anti-spoofing (FAS).
-![plot](figures/idea.jpg)
+![plot](figures/idea-1.jpg)
 
-## Architecture of OC SCMNet
-![plot](figures/framework_small.jpg)
+## Architecture of OC-SCMNet
+![plot](figures/framework_small-1.jpg)
 
 
 ## Training & Testing
-Run `train.py` to train LDCformer
+Run `train.py` to train OC-SCMNet
 
-Run `test.py` to test LDCformer
+Run `test.py` to test OC-SCMNet
 
 
 ## Citation
 
-If you use the LDCformer/Decoupled-LDC, please cite the paper:
+If you use the OC-SCMNet, please cite the paper:
  ```
-@inproceedings{huang2023ldcformer,
-  title={LDCformer: Incorporating Learnable Descriptive Convolution to Vision Transformer for Face Anti-Spoofing},
-  author={Huang, Pei-Kai and Chiang, Cheng-Hsuan and Chong, Jun-Xiong and Chen, Tzu-Hsien and Ni, Hui-Yu and Hsu, Chiou-Ting},
-  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
-  pages={121--125},
-  year={2023},
-  organization={IEEE}
+@inproceedings{huang2024one,
+  title={ One-Class Face Anti-spoofing via Spoof Cue Map-Guided Feature Learning},
+  author={Huang, Pei-Kai and Chiang, Cheng-Hsuan, and Chen, Tzu-Hsien and Chong, Jun-Xiong and Liu, Tyng-Luh and Hsu, Chiou-Ting},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2024},
 }
- @inproceedings{huang2022learnable,
-  title={Learnable Descriptive Convolutional Network for Face Anti-Spoofing},
-  author={Huang, Pei-Kai and H.Y. Ni and Y.Q. Ni and C.T. Hsu},
-  booktitle={BMVC},
-  year={2022}
-}
+
 ```
