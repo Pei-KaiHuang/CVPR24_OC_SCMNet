@@ -17,7 +17,7 @@ Run `test.py` to test OC-SCMNet
 
 ## Citation
 
-If you use the OC-SCMNet, please cite the paper:
+If you use the OC-SCMNet, please cite the paper, thank you:
  ```
 @inproceedings{huang2024one,
   title={ One-Class Face Anti-spoofing via Spoof Cue Map-Guided Feature Learning},
